@@ -1,6 +1,6 @@
 {
   "name": "webpack-git-hash-updater",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack v5 plugin for complex git hash update",
   "main": "index.js",
   "scripts": {
