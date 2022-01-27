@@ -1,0 +1,31 @@
+{
+  "name": "webpack-git-hash-updater",
+  "version": "1.0.0",
+  "description": "Webpack v5 plugin for complex git hash update",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --full-trace --check-leaks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristian-sima/webpack-git-hash-updater.git"
+  },
+  "keywords": [
+    "webpack",
+    "versioning"
+  ],
+  "author": "cristian-sima",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/cristian-sima/webpack-git-hash-updater/issues"
+  },
+  "homepage": "https://github.com/cristian-sima/webpack-git-hash-updater#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.0.2",
+    "rimraf": "2.5.4"
+  },
+  "dependencies": {
+    "cli-color": "^2.0.1"
+  }
+}
