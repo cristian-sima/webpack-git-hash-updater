@@ -1,5 +1,7 @@
 # webpack-git-hash-updater
 
+![image](https://user-images.githubusercontent.com/12199042/151424157-d3884764-48e4-45d0-b9cf-2e1f26e1c562.png)
+
 ## It requires **webpack version 5**!
 
 *If you need to use webpack v4 please use this script [here](https://github.com/alleyinteractive/webpack-git-hash)*.
