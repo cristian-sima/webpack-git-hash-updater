@@ -11,7 +11,7 @@ const
 
 const
   charsFromLastCommitHash = 7,
-  pluginName = "WebpackGitHash5";
+  pluginName = "WebpackGitHashUpdater";
 
 class WebpackGitHash5 {
 
@@ -240,7 +240,7 @@ class WebpackGitHash5 {
   }
 
   static log (text) {
-    console.log(`<i> ${colors.greenBright("[webpack-dev-server] [webpack-git-hash]")} ${text}`);
+    console.log(`<i> ${colors.greenBright("[webpack-dev-server] [webpack-git-hash-updater]")} ${text}`);
   }
 }
 
